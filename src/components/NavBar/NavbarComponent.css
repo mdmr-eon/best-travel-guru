@@ -1,0 +1,16 @@
+.form-control{
+    background-color: rgba(255, 255, 255, 0.6);
+}
+.form-control::placeholder{
+    color: black;
+}
+.navbar-nav a{
+  font-size: 18px;
+  font-weight: 600;
+  color: black;
+  padding: 10px;
+}
+.navbar-nav a:hover{
+    text-decoration: none;
+    color: #f9a51a;
+}
